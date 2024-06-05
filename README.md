@@ -26,4 +26,4 @@ To run this project, you'll need the following:
 
 1. **Clone the Repository:**
    ```bash 
-   git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>
+   git clone [https://github.com/](https://github.com/)markxkamau/car_sales_clustering
